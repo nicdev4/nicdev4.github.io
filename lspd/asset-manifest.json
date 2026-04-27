@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lspd/static/css/main.fd6ed148.css",
+    "main.js": "/lspd/static/js/main.b012278b.js",
+    "static/js/453.a2cc37e4.chunk.js": "/lspd/static/js/453.a2cc37e4.chunk.js",
+    "static/media/MajesticFont-Bold.woff2": "/lspd/static/media/MajesticFont-Bold.960f17d89a4e82ed978a.woff2",
+    "static/media/MajesticFont-ExtraBold.woff2": "/lspd/static/media/MajesticFont-ExtraBold.fbc99f4dd58e5a1ce93e.woff2",
+    "static/media/MajesticFont-Regular.woff2": "/lspd/static/media/MajesticFont-Regular.53b649f817ffd1eb33aa.woff2",
+    "static/media/MajesticFont-Black.woff2": "/lspd/static/media/MajesticFont-Black.032fda390e8f35cebe53.woff2",
+    "static/media/MajesticFont-SemiBold.woff2": "/lspd/static/media/MajesticFont-SemiBold.83e432c7c6166ab86cb3.woff2",
+    "index.html": "/lspd/index.html",
+    "main.fd6ed148.css.map": "/lspd/static/css/main.fd6ed148.css.map",
+    "main.b012278b.js.map": "/lspd/static/js/main.b012278b.js.map",
+    "453.a2cc37e4.chunk.js.map": "/lspd/static/js/453.a2cc37e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd6ed148.css",
+    "static/js/main.b012278b.js"
+  ]
+}
